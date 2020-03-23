@@ -1,2 +1,2 @@
-# flux
-Flux Code Snippets Extensions
+# Flux
+
